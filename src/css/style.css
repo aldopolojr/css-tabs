@@ -57,7 +57,7 @@ body{
 #blog:checked ~ nav label.blog,
 #code:checked ~ nav label.code,
 #help:checked ~ nav label.help,
-  #about:checked ~ nav label.about{
+#about:checked ~ nav label.about {
   color: #fff;
 }
 nav label i{
